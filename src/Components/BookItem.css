@@ -1,0 +1,17 @@
+.book-item{
+    width: 70%;
+    background-color: white;
+    padding: 1rem;
+}
+.save , .cancel{
+    background-color: green;
+    color: white;
+    padding: 0.5rem 0.8rem;
+    border: transparent;
+}
+ .delete, .edit{
+    background-color: red;
+    color: white;
+    padding: 0.5rem 0.8rem;
+    border: transparent;
+}
